@@ -46,9 +46,18 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+### Rendered Output:
+<img width="1920" height="692" alt="19b3cb1f-b98e-4371-ac99-21544130fe7c" src="https://github.com/user-attachments/assets/dbfed8cd-5957-4fd3-a8e6-8442b8327764" />
 
-### Name:
-### Register Number:
+### Fusion 360:
+<img width="1919" height="1079" alt="Screenshot 2026-09-04 095906" src="https://github.com/user-attachments/assets/6feeb238-6761-4722-9663-b23307f84c72" />
+
+### Ultimate Cura:
+<img width="1919" height="1079" alt="Screenshot 2026-09-04 095817" src="https://github.com/user-attachments/assets/572259a8-8790-4f23-901e-391fb0afb8fc" />
+
+
+### Name:SUJIN M L
+### Register Number:212225040435
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
